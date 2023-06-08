@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "JWdGmY1l0p09Z2JTfBraOEiNFNrYA1GRpABnieg7aK+pw5APjIDz3QvMNHBvJeCEWIpUHoaqZKMkc3L/adqKRw==",
+  "dgSpecHash": "1qZe2BTakeO9dTFwSRlMxyTCTqOrHbdGk2j5d9bwTtD2wg5/vnV54zQMnEZF5CtgGuZMXRVpF3cSJWsgcfmXvQ==",
   "success": true,
-  "projectFilePath": "F:\\ETML\\PROJETS\\InnoWeeks-2023\\InnoWeeks_MediaPlayer\\InnoWeeks_MediaPlayer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\PROJETS\\P-Prog\\resetInnoWeek\\InnoWeeks_MediaPlayer\\InnoWeeks_MediaPlayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sofbelkhiri\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\sofbelkhiri\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\sofbelkhiri\\.nuget\\packages\\naudio\\2.1.0\\naudio.2.1.0.nupkg.sha512",
+    "C:\\Users\\sofbelkhiri\\.nuget\\packages\\naudio.asio\\2.1.0\\naudio.asio.2.1.0.nupkg.sha512",
+    "C:\\Users\\sofbelkhiri\\.nuget\\packages\\naudio.core\\2.1.0\\naudio.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\sofbelkhiri\\.nuget\\packages\\naudio.midi\\2.1.0\\naudio.midi.2.1.0.nupkg.sha512",
+    "C:\\Users\\sofbelkhiri\\.nuget\\packages\\naudio.wasapi\\2.1.0\\naudio.wasapi.2.1.0.nupkg.sha512",
+    "C:\\Users\\sofbelkhiri\\.nuget\\packages\\naudio.winforms\\2.1.0\\naudio.winforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\sofbelkhiri\\.nuget\\packages\\naudio.winmm\\2.1.0\\naudio.winmm.2.1.0.nupkg.sha512",
+    "C:\\Users\\sofbelkhiri\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\sofbelkhiri\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

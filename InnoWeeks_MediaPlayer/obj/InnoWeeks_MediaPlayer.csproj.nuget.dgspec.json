@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ETML\\PROJETS\\InnoWeeks-2023\\InnoWeeks_MediaPlayer\\InnoWeeks_MediaPlayer.csproj": {}
+    "F:\\PROJETS\\P-Prog\\resetInnoWeek\\InnoWeeks_MediaPlayer\\InnoWeeks_MediaPlayer.csproj": {}
   },
   "projects": {
-    "F:\\ETML\\PROJETS\\InnoWeeks-2023\\InnoWeeks_MediaPlayer\\InnoWeeks_MediaPlayer.csproj": {
+    "F:\\PROJETS\\P-Prog\\resetInnoWeek\\InnoWeeks_MediaPlayer\\InnoWeeks_MediaPlayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ETML\\PROJETS\\InnoWeeks-2023\\InnoWeeks_MediaPlayer\\InnoWeeks_MediaPlayer.csproj",
+        "projectUniqueName": "F:\\PROJETS\\P-Prog\\resetInnoWeek\\InnoWeeks_MediaPlayer\\InnoWeeks_MediaPlayer.csproj",
         "projectName": "InnoWeeks_MediaPlayer",
-        "projectPath": "F:\\ETML\\PROJETS\\InnoWeeks-2023\\InnoWeeks_MediaPlayer\\InnoWeeks_MediaPlayer.csproj",
-        "packagesPath": "C:\\Users\\matkhaiy\\.nuget\\packages\\",
-        "outputPath": "F:\\ETML\\PROJETS\\InnoWeeks-2023\\InnoWeeks_MediaPlayer\\obj\\",
+        "projectPath": "F:\\PROJETS\\P-Prog\\resetInnoWeek\\InnoWeeks_MediaPlayer\\InnoWeeks_MediaPlayer.csproj",
+        "packagesPath": "C:\\Users\\sofbelkhiri\\.nuget\\packages\\",
+        "outputPath": "F:\\PROJETS\\P-Prog\\resetInnoWeek\\InnoWeeks_MediaPlayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\matkhaiy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\sofbelkhiri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0-windows"
@@ -44,6 +39,12 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "NAudio": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
